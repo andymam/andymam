@@ -1,16 +1,29 @@
-### Hi there 👋
+<h1 align="center">Hi there 👋, I'm Andy Mam</h1>
+<h3 align="center">I'm a Software Engineering Student at BYU</h3>
 
-<!--
-**andymam/andymam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<p align="center">- 📫 Reach me at **andymam2001@gmail.com**</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="www.linkedin.com/in/andy-mam23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andymam" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+
+<p align="left"> 
+<p> - Java  </p>  
+<p> </p>- Python  
+<p> </p>- C++  
+<p> </p>- C  
+<p> </p>- SQL  
+<p> </p>- HTML  
+<p> </p>- CSS  
+<p> </p>- Javascript  
+<p> </p>- mySQL  
+<p> </p>- AWS  
+<p> </p>- MongoDB  
+<p> </p>- NodeJS  
+<p> </p>- React  
+</p>
+
