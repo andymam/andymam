@@ -2,7 +2,7 @@
 <h3 align="center">I'm a Software Engineering Student at BYU</h3>
 
 
-<p align="center">- 📫 Reach me at **andymam2001@gmail.com**</p>
+<p align="center">- 📫 Reach me at andymam2001@gmail.com</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
