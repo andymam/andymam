@@ -1,5 +1,6 @@
-<h1 align="center">Hi there 👋, I'm Andy Mam</h1>
-<h3 align="center">I'm a Software Engineering Student at BYU</h3>
+<h1 align="center">Hi 👋, I'm Andy Mam</h1>
+<h3 align="center">I'm a Software Engineering Student at BYU,</h3>
+<h3 align="center">and an incoming Technology Developer Intern at Barclays</h3>
 
 
 <p align="center">- 📫 Reach me at andymam2001@gmail.com</p>
